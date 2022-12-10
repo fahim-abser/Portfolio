@@ -89,6 +89,14 @@
     .experience{
         padding: 1% 5%;
     }
+    .newClass{
+        width: 362px;
+        height: 180px;
+        padding-bottom: 20px;
+    }
+    .noBorder{
+        border: none;
+    }
     /* experience ends here */
 
 

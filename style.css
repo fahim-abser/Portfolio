@@ -166,7 +166,6 @@ a{
         border-radius: 10px;
         padding: 10px;
         transition: .3s;
-        height: 700px;
     }
     .card:hover{
         box-shadow: 0 3px 8px 3px black ;
