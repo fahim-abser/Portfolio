@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Fahim-s_Portfolio/static/css/main.1910502b.css",
+    "main.js": "/Fahim-s_Portfolio/static/js/main.37a64462.js",
+    "static/js/787.9b9c0edf.chunk.js": "/Fahim-s_Portfolio/static/js/787.9b9c0edf.chunk.js",
+    "static/media/quote-background.jpg": "/Fahim-s_Portfolio/static/media/quote-background.026b66371900f2cda770.jpg",
+    "static/media/project-2-laptop.jpg": "/Fahim-s_Portfolio/static/media/project-2-laptop.cf16d005202e7ca5b4b2.jpg",
+    "static/media/project-1-laptop.jpg": "/Fahim-s_Portfolio/static/media/project-1-laptop.bcbf38da2ff284143a6a.jpg",
+    "static/media/project-1-mobile.jpg": "/Fahim-s_Portfolio/static/media/project-1-mobile.fd536b144dca7febd0b3.jpg",
+    "static/media/project-2-mobile.jpg": "/Fahim-s_Portfolio/static/media/project-2-mobile.49a7d462564fc8e21f28.jpg",
+    "static/media/project-3-mobile.jpg": "/Fahim-s_Portfolio/static/media/project-3-mobile.5deca318fe77202eefd4.jpg",
+    "static/media/project-4-laptop.jpg": "/Fahim-s_Portfolio/static/media/project-4-laptop.bd114ee0dbb79960f9ba.jpg",
+    "static/media/project-5-laptop.jpg": "/Fahim-s_Portfolio/static/media/project-5-laptop.4bf61998f37ec787f429.jpg",
+    "static/media/teamProject-1-laptop.png": "/Fahim-s_Portfolio/static/media/teamProject-1-laptop.8372d304ba86e9340018.png",
+    "static/media/project-5-mobile.jpg": "/Fahim-s_Portfolio/static/media/project-5-mobile.bccfab449c28a619b507.jpg",
+    "static/media/teamProject-1-mobile.png": "/Fahim-s_Portfolio/static/media/teamProject-1-mobile.bf9d84c448dbbdd41ffd.png",
+    "static/media/my-image.jpg": "/Fahim-s_Portfolio/static/media/my-image.6edd9e6bbe42209737f3.jpg",
+    "static/media/project-4-mobile.jpg": "/Fahim-s_Portfolio/static/media/project-4-mobile.919225ae2367f420fc68.jpg",
+    "static/media/project-3-laptop.jpg": "/Fahim-s_Portfolio/static/media/project-3-laptop.8ceac4ae7c15a0c72719.jpg",
+    "static/media/react.svg": "/Fahim-s_Portfolio/static/media/react.9a9e897f378fb66078f5d0b9a0bc4d8d.svg",
+    "static/media/github.svg": "/Fahim-s_Portfolio/static/media/github.2aa2324ec84837432186f0bb4458dbce.svg",
+    "static/media/visual-studio-code.svg": "/Fahim-s_Portfolio/static/media/visual-studio-code.54f89d74df7350930de2027a082c857a.svg",
+    "static/media/figma.svg": "/Fahim-s_Portfolio/static/media/figma.5ca8f836943e375373bf612d3cb63b0c.svg",
+    "static/media/javascript.svg": "/Fahim-s_Portfolio/static/media/javascript.f2ea984aba76cbe14d88c5c9287da730.svg",
+    "static/media/icon-arrow-up.svg": "/Fahim-s_Portfolio/static/media/icon-arrow-up.7f95bf92a27da651ffc7e948a1c19ee0.svg",
+    "static/media/bootstrap.svg": "/Fahim-s_Portfolio/static/media/bootstrap.5ecd1be792660b6ccbb1266b0f2f85b4.svg",
+    "static/media/css.svg": "/Fahim-s_Portfolio/static/media/css.43c7755c277fc7f95d9ca1d5e6f1a6af.svg",
+    "index.html": "/Fahim-s_Portfolio/index.html",
+    "static/media/about-me.svg": "/Fahim-s_Portfolio/static/media/about-me.c83b4f753e5a9aaec3b16490524edb6f.svg",
+    "static/media/tailwindcss.svg": "/Fahim-s_Portfolio/static/media/tailwindcss.3c7212a870ebab53f86cb64c96c31c6f.svg",
+    "static/media/html.svg": "/Fahim-s_Portfolio/static/media/html.5b831767f1d3215ec40531a869d33ff6.svg",
+    "static/media/logo.svg": "/Fahim-s_Portfolio/static/media/logo.7d1292a793862c24d19b5af460bc0d15.svg",
+    "static/media/project-icon.svg": "/Fahim-s_Portfolio/static/media/project-icon.812e73fe01c2e4e4773c6c7dd4b7e546.svg",
+    "static/media/npm.svg": "/Fahim-s_Portfolio/static/media/npm.764db555a82ab18ef3f80a5a0d1aadfc.svg",
+    "main.1910502b.css.map": "/Fahim-s_Portfolio/static/css/main.1910502b.css.map",
+    "main.37a64462.js.map": "/Fahim-s_Portfolio/static/js/main.37a64462.js.map",
+    "787.9b9c0edf.chunk.js.map": "/Fahim-s_Portfolio/static/js/787.9b9c0edf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1910502b.css",
+    "static/js/main.37a64462.js"
+  ]
+}
